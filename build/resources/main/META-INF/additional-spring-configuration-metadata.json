@@ -1,9 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "spring.cloud.nacos.env-isolation",
-      "type": "java.lang.String",
-      "description": "配置开启默认策略."
-    }
-  ]
-}
